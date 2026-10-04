@@ -1,0 +1,4 @@
+Flask>=3.0
+cbor2>=5.6
+cryptography>=42.0
+pytest>=8.0
